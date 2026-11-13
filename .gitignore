@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.tmp_test_mvp/
+outputs/
+verification/
+baseline/
+*.local.md
+tools/reproduce_baseline.py
+tests/test_m0_r1_workflow.py
+requirements-baseline.txt
